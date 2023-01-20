@@ -1,7 +1,7 @@
 # Mediaplayer
 simple python media player that install audio file through youtube link and plays it using tinker, pygame and ffmpeg  
   
-THIS IS NOT THE FULL RELEASE, IT WILL IN NO WAY REPRESENT THE FINAL BUILD
+**THIS IS NOT THE FULL RELEASE, IT WILL IN NO WAY REPRESENT THE FINAL BUILD
 
 # Features
 Simple and linear GUI  

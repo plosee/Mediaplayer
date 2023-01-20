@@ -3,7 +3,7 @@ simple python media player that install audio file through youtube link and play
   
 THIS IS NOT THE FULL RELEASE, IT WILL IN NO WAY REPRESENT THE FINAL BUILD
 
-#Features
+# Features
 Simple and linear GUI  
 Download music through YouTube  
 Now Playing text  

@@ -7,10 +7,10 @@ Install ffmpeg through [the official ffmpeg downdload site]https://www.ffmpeg.or
 Run Mediaplayer.exe
 
 # Required modules for source code
-tkinter\n
-pygame\n
-youtubesearchpython\n
-pytube\n
-pathlib\n
-pydub\n
-atexit\n
+tkinter  
+pygame  
+youtubesearchpython  
+pytube  
+pathlib  
+pydub  
+atexit  

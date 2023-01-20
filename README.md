@@ -26,6 +26,17 @@ pydub
 atexit  
   
 # Will update it with the following soon...
-bug fixes, easier on the eyes GUI  able to use links directly for music  graphical progress bar w/ minutes  hide debug window  have spotify and soundcloud implemented  playlists  more configuration options  fix variable names  optimize the code  make offline listening available  if config implemented show offline mp3 files from path you provide and option to not remove cache file upon exit
+bug fixes  
+easier on the eyes GUI  
+able to use links directly for music  
+graphical progress bar w/ minutes  
+hide debug window  
+have spotify and soundcloud implemented  
+playlists  
+more configuration options  
+fix variable names  
+optimize the code  
+make offline listening available  
+if config implemented show offline mp3 files from path you provide and option to not remove cache file upon exit  
   
 more of a bucket list  

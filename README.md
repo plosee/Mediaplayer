@@ -17,13 +17,13 @@ Run Mediaplayer.exe
   
 To compile, [use pyinstaller](https://pyinstaller.org/en/stable/)  
 # Required modules for source code
-tkinter  
+  
 pygame  
-youtubesearchpython  
+youtube-search-python  
 pytube  
 pathlib  
 pydub  
-atexit  
+
   
 # Will update it with the following soon...
 bug fixes  

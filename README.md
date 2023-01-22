@@ -16,10 +16,16 @@ Install ffmpeg through [the official ffmpeg downdload site](https://www.ffmpeg.o
 Run Mediaplayer.exe  
   
 To compile, [use pyinstaller](https://pyinstaller.org/en/stable/)  
-# Required modules for source code
-  
+# Modules that mediaplayer uses
+
+subprocess  
+os  
+sys  
+shutil  
+tkinter   
+atexit  
 pygame  
-youtube-search-python  
+youtube-search-python    
 pytube  
 pathlib  
 pydub  

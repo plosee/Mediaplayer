@@ -1,0 +1,4 @@
+pygame
+youtube-search-python
+pytube
+pathlib

@@ -1,10 +1,10 @@
 # Mediaplayer
-simple python media player that install audio file through youtube link and plays it using tinker, pygame and ffmpeg  
+This code uses several libraries (Tkinter, Pygame, pytube, etc.) to create a jukebox-like program that allows the user to select a song from a list of songs specified in a .txt file. The program then searches for the song on YouTube, downloads the audio from the first result, and plays it using Pygame.
   
 **THIS IS NOT THE FULL RELEASE, IT WILL IN NO WAY REPRESENT THE FINAL BUILD**
 
 # Features
-Simple and linear GUI  
+Simple GUI
 Download music through YouTube  
 Now Playing text  
   
@@ -16,14 +16,20 @@ Install ffmpeg through [the official ffmpeg downdload site](https://www.ffmpeg.o
 Run Mediaplayer.exe  
   
 To compile, [use pyinstaller](https://pyinstaller.org/en/stable/)  
-# Required modules for source code
-tkinter  
+# Modules that mediaplayer uses
+
+subprocess  
+os  
+sys  
+shutil  
+tkinter   
+atexit  
 pygame  
-youtubesearchpython  
+youtube-search-python    
 pytube  
 pathlib  
 pydub  
-atexit  
+
   
 # Will update it with the following soon...
 bug fixes  

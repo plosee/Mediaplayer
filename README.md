@@ -1,7 +1,9 @@
 # Mediaplayer
 This code uses several libraries (Tkinter, Pygame, pytube, etc.) to create a jukebox-like program that allows the user to select a song from a list of songs specified in a .txt file. The program then searches for the song on YouTube, downloads the audio from the first result, and plays it using Pygame.
   
-**THIS IS NOT THE FULL RELEASE, IT WILL IN NO WAY REPRESENT THE FINAL BUILD**
+**THIS IS NOT THE FULL RELEASE, IT WILL IN NO WAY REPRESENT THE FINAL BUILD**  
+  
+**NB! IF YOU USE NON UNICODE FORMAL CHARACTER like "öäõü" IN THE URL SEARCH THEN THE CODE WILL BREAK**   
 
 # Features
 Simple GUI
